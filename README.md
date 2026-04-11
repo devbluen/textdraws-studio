@@ -21,7 +21,6 @@ Created by **blueN** in collaboration with **Samp Lab** (https://discord.gg/EqeF
 
 # ⚠️ Warnings
 - Keep in mind that this is a beta version, so there may be errors in the English translation or some features.
-- Importing is also not available yet; it will be available in version 1.1.*
 
 # 📷 Screenshots
 <img width="1920" height="1080" alt="sa-mp-0000030" src="https://github.com/user-attachments/assets/9d84ba08-9084-4158-af4d-ffeb2e603af0" />
