@@ -23,12 +23,12 @@ Created by **blueN** in collaboration with **Samp Lab** (https://discord.gg/EqeF
 - Keep in mind that this is a beta version, so there may be errors in the English translation or some features.
 
 # 📷 Screenshots
-<img width="1920" height="1080" alt="sa-mp-0000030" src="https://github.com/user-attachments/assets/9d84ba08-9084-4158-af4d-ffeb2e603af0" />
-<img width="1920" height="1080" alt="sa-mp-0000028" src="https://github.com/user-attachments/assets/447cffdc-6d05-4679-9955-edf4a53af181" />
-<img width="1920" height="1080" alt="sa-mp-0000027" src="https://github.com/user-attachments/assets/1d580a91-423d-409a-a8b3-a5c94a8d8505" />
-<img width="1920" height="1080" alt="sa-mp-0000026" src="https://github.com/user-attachments/assets/ca9c6004-112e-446f-8bc0-ad95f79bff72" />
-<img width="1920" height="1080" alt="sa-mp-0000025" src="https://github.com/user-attachments/assets/ad003bb9-2df7-413d-ba75-bbb26c4eb7f7" />
-<img width="1920" height="1080" alt="sa-mp-0000024" src="https://github.com/user-attachments/assets/0ff24082-d1e9-4891-934b-3b588f61c81a" />
-<img width="1920" height="1080" alt="sa-mp-0000023" src="https://github.com/user-attachments/assets/5f1ba2c2-5f18-4337-b4aa-043730499a70" />
-<img width="1920" height="1080" alt="sa-mp-0000022" src="https://github.com/user-attachments/assets/892b1d1e-c47d-4094-a0af-4acd28786370" />
-<img width="1920" height="1080" alt="sa-mp-0000021" src="https://github.com/user-attachments/assets/2eaabb8a-e8dd-4479-a806-5da302d369d3" />
+<img width="1920" height="1080" alt="sa-mp-0000030" src="https://github.com/user-attachments/assets/9d84ba08-9084-4158-af4d-ffeb2e603af0" /><br>
+<img width="1920" height="1080" alt="sa-mp-0000028" src="https://github.com/user-attachments/assets/447cffdc-6d05-4679-9955-edf4a53af181" /><br>
+<img width="1920" height="1080" alt="sa-mp-0000027" src="https://github.com/user-attachments/assets/1d580a91-423d-409a-a8b3-a5c94a8d8505" /><br>
+<img width="1920" height="1080" alt="sa-mp-0000026" src="https://github.com/user-attachments/assets/ca9c6004-112e-446f-8bc0-ad95f79bff72" /><br>
+<img width="1920" height="1080" alt="sa-mp-0000025" src="https://github.com/user-attachments/assets/ad003bb9-2df7-413d-ba75-bbb26c4eb7f7" /><br>
+<img width="1920" height="1080" alt="sa-mp-0000024" src="https://github.com/user-attachments/assets/0ff24082-d1e9-4891-934b-3b588f61c81a" /><br>
+<img width="1920" height="1080" alt="sa-mp-0000023" src="https://github.com/user-attachments/assets/5f1ba2c2-5f18-4337-b4aa-043730499a70" /><br>
+<img width="1920" height="1080" alt="sa-mp-0000022" src="https://github.com/user-attachments/assets/892b1d1e-c47d-4094-a0af-4acd28786370" /><br>
+<img width="1920" height="1080" alt="sa-mp-0000021" src="https://github.com/user-attachments/assets/2eaabb8a-e8dd-4479-a806-5da302d369d3" /><br>
